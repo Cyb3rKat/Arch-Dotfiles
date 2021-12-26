@@ -24,7 +24,7 @@ export SAVEHIST=10000
 
 
 #dotfiles address
-export DOTFILES=:$HOME/dotfiles"
+export DOTFILES="$HOME/dotfiles"
 
 
 export FZF_DEFAULT_COMMAND="rg --files --hidden --glob '!.git'"
